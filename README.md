@@ -4,8 +4,6 @@ This document provides an overview of the file structure for the assignment, det
 
 ## Directory and File Overview
 
-The assignment consists of several folders and files, each serving a specific purpose:
-
 ### 1. **Folders**
 
 #### A, B, C, D
@@ -20,7 +18,7 @@ The assignment consists of several folders and files, each serving a specific pu
 
 ### 2. **Files**
 
-#### Problem_4X.txt (e.g., `Problem_4A.txt`, `Problem_4B.txt`, etc.)
+#### Problem_4X.txt (e.g., `Problem_4a.txt`, `Problem_4b.txt`, etc.)
 - Each file provides instructions on how to run the respective problem part (A, B, C, or D).
 - Details include necessary commands and dependencies.
 
