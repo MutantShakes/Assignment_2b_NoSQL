@@ -1,8 +1,5 @@
-# Assignment File Structure
 
-This document provides an overview of the file structure for the assignment, detailing the contents and purpose of each directory and file.
-
-## Directory and File Overview
+# Directory and File Overview
 
 ### 1. **Folders**
 
