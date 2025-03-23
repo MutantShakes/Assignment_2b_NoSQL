@@ -23,6 +23,6 @@ This document provides an overview of the file structure for the assignment, det
 - Details include necessary commands and dependencies.
 
 #### Report_Problem_4.pdf
-- This is the report document for `Problem 4` summarizing the findings, methodology, and results of the assignment.
+- This is the report document for `Problem 4` summarizing the findings, methodology, and results of the problem.
 
 
