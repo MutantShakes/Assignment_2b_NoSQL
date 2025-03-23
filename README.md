@@ -22,7 +22,7 @@ This document provides an overview of the file structure for the assignment, det
 - Each file provides instructions on how to run the respective problem part (A, B, C, or D).
 - Details include necessary commands and dependencies.
 
-#### Report_Assignment_2_part_b.pdf
-- This is the main report document summarizing the findings, methodology, and results of the assignment.
+#### Report_Problem_4.pdf
+- This is the report document for `Problem 4` summarizing the findings, methodology, and results of the assignment.
 
 
